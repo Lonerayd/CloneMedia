@@ -1,6 +1,6 @@
 <template>
    
-        <header class=" ">
+       
             <nav class="lg-px-6 sm:px-8 container min-w-full flex justify-between ">
                 <h2>
                     WebImage
@@ -11,7 +11,7 @@
                     <li>Contact us</li>
                 </ul>
             </nav>
-        </header>
+     
    
 </template>
 

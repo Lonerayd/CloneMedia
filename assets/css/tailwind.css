@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer components {
+  .linkHover {
+    @apply my-2 p-2 hover:bg-blue-50 dark:hover:bg-white/20 rounded-full ease-in-out duration-200 
+  }
+}
 @layer base {
     h1 {
       @apply text-4xl lg:text-7xl font-black;
